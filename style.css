@@ -380,3 +380,107 @@ button{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+@media(width:600px){
+    .navcontent{
+        display: none;
+    }
+    .navicon{
+        display: none;
+    }
+    .spotlogo{
+        text-align: center;
+    }
+    .flex{
+        display: none;
+    }
+    .box2 input{
+        width: 300px;
+    }
+    .box2 h3{
+        font-size: 40px;
+    }
+    .boxes{
+        display: flex;
+        flex-direction: column;
+    }
+    .div1{
+       width: 78%;
+       margin-left: 60px;
+       margin-top: 30px;
+    }
+    .box4{
+        padding-right: 0;
+        padding-left: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 30px;
+    }
+    .box4 p{
+        font-size: 18px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .div2{
+        width: 60%;
+        margin-left: 120px;
+        margin-top: 30px;
+    }
+    .div3{
+        width: 52%;
+        margin-left: 120px;
+        margin-top: 35px;
+    }
+    .div4{
+         width: 93%;
+         margin-top: 30px;
+    }
+    .box7{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .box7 h1{
+        font-size: 45px;
+        font-weight: 600;
+    }
+    .box7 p{
+        font-size: 25px;
+    }
+    .Partner{
+        display: inline;
+        margin-left: 170px;
+    }
+    .box8{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .box8 h6{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .box8 input{
+        width: 200px;
+        margin-left: 130px;
+    }
+    .box8 p{
+        font-size: 20px;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        border: none;
+    }
+    .foot1{
+        width: 70%;
+        height: 180px;
+        margin-top: 20px;
+    }
+    .last p{
+        font-size: 16px;
+    }
+    .last{
+        margin-top: 90px;
+        border-top: 3px solid rgb(148, 163, 184);
+    }
+}
+    
+            
